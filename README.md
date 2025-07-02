@@ -5,11 +5,11 @@ This project contains a collection of user interface designs made using **Python
 
 
 🌟 Features
-1)Login & Registration System
-2)Graphical User Interface (GUI)
-3)City-Based Noise Level Tracker
-4)Multi-Page Navigation
-5)Offline Application
+Login & Registration System
+Graphical User Interface (GUI)
+City-Based Noise Level Tracker
+Multi-Page Navigation
+Offline Application
 
 
 🛠️ Technologies Used
