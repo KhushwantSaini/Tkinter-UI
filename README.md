@@ -5,15 +5,15 @@ This project contains a collection of user interface designs made using **Python
 
 
 🌟 Features:-
-Login & Registration System
-Graphical User Interface (GUI)
-City-Based Noise Level Tracker
-Multi-Page Navigation
+Login & Registration System,
+Graphical User Interface (GUI),
+City-Based Noise Level Tracker,
+Multi-Page Navigation,
 Offline Application
 
 
 🛠️ Technologies Used:-
-Language: Python 
-GUI Library: Tkinter 
-Image Handling: Pillow (PIL) 
+Language: Python ,
+GUI Library: Tkinter, 
+Image Handling: Pillow (PIL) ,
 Platform: Windows
