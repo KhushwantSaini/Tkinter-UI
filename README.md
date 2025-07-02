@@ -13,7 +13,7 @@ Offline Application
 
 
 🛠️ Technologies Used:-
-Language: Python ,
-GUI Library: Tkinter, 
-Image Handling: Pillow (PIL) ,
-Platform: Windows
+ Python ,
+ Tkinter, 
+ Pillow (PIL) ,
+ Windows
